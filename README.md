@@ -1,60 +1,10 @@
-# ModularAdmin: Free Bootstrap 4 Dashboard Theme <br> HTML version
-
-[![Backers on Open Collective](https://opencollective.com/modular-admin/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/modular-admin/sponsors/badge.svg)](#sponsors) [![Join the chat at https://gitter.im/modularcode/modular-admin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/modularcode/modular-admin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# MMAdmin4Html: Free Bootstrap 4 Dashboard Theme <br> HTML version
 
 [![demo](http://modularcode.github.io/modular-admin-html/assets/demo.png)](http://modularcode.github.io/modular-admin-html/)
 
-<p align="center">
-  <strong>
-    <a href="http://modularcode.github.io/modular-admin-html/" target="_blank">View Demo</a> | <a href="https://github.com/modularcode/modular-admin-html/releases" target="_blank">Download ZIP</a>
-  </strong>
-</p>
-
-ModularAdmin is an open source **dashboard theme** built in a modular way. That makes it easy to scale, modify and maintain.
+MMAdmin4Html is an open source **dashboard theme** built in a modular way. That makes it easy to scale, modify and maintain.
 
 ---
-
-##  📣 Heads up for the Modular Material Admin + React! 
-
-Currently I work on the <a href="https://github.com/modularcode/modular-admin-react" target="_blank">Modular Admin ReactJS</a> version, which uses **React**,  **MaterialUI**, **Redux** and **TypeScript**. [**🎖 Star**](https://github.com/modularcode/modular-admin-react/stargazers) the project or [**👣 follow me on Twitter**](https://twitter.com/modularcoder) to stay up to date!
-
-**👉 [Support me on pateron](https://www.patreon.com/modularcoder) to make this happen! 👍**
-
----
-
-
-## Getting Started
-
-> **Note:** If you don't want to re-build the project, you may just clone this branch directly  ```https://github.com/modularcode/modular-admin-html/tree/gh-pages```
-
-### 1. [Download ZIP](https://github.com/modularcode/modular-admin-html/releases/latest) or Git Clone
-
-```
-git clone https://github.com/modularcode/modular-admin-html.git
-```
-### 2. Build the project
-
-The cloned/downloaded repository doesn't contain prebuilt version of the project and you need to build it. You need to have [NodeJs](https://nodejs.org/en/) (v8+) with npm (v3+) installed.
-
-
-Install npm dependencies 
-```
-npm install
-```
-
-Build the project and start local web server
-```
-npm start
-```
-
-Open the project [http://localhost:4000](http://localhost:4000).
-
-
-**Warning!** all changes made in ```dist/``` folder would be overwriten on application build.
-
-<br>
-
-You can also <strong>[run the project in docker](#running-in-docker)</strong> thanks to @japrogramer
 
 <br>
 
@@ -240,80 +190,4 @@ docker-compose up
 ```
 
 
-## Support me!
 
-### [Support me on Patreon](https://www.patreon.com/modularcoder)
-
-Creating a good quality project takes a lot's of time, so any help is really appreciated!
-
-[https://www.patreon.com/modularcoder](https://www.patreon.com/modularcoder)
-
-### Contribute
-
-Be part of our team! Feel free to open new issues/pull-requests.
-
-### Get in touch
-
-You can get in touch with us in gitter chat [![Join the chat at https://gitter.im/modularcode/modular-admin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/modularcode/modular-admin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) or in the [ModularCode Facebook Group](https://www.facebook.com/groups/710770032358423/). 
-Feel free to contact us with any questions, sugestions, remarks and potential feature requests that you might have.
-
-* Gevorg Harutyunyan | [LinkedIn](https://www.linkedin.com/profile/view?id=AAMAAA7ne4gBF-IVNsoiBaeOeDTd5YGSTVN2eBs) |  [Facebook](https://www.facebook.com/madextreme) | [Twitter](https://twitter.com/mad4extreme) | gevharut[at]gmail.com
-
-
-
-### Backers
-
-Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/modular-admin#backer)]
-
-<a href="https://opencollective.com/modular-admin/backer/0/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/0/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/1/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/1/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/2/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/2/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/3/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/3/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/4/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/4/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/5/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/5/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/6/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/6/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/7/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/7/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/8/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/8/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/9/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/9/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/10/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/10/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/11/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/11/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/12/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/12/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/13/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/13/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/14/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/14/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/15/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/15/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/16/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/16/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/17/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/17/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/18/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/18/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/19/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/19/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/20/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/20/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/21/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/21/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/22/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/22/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/23/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/23/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/24/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/24/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/25/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/25/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/26/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/26/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/27/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/27/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/28/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/28/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/backer/29/website" target="_blank"><img src="https://opencollective.com/modular-admin/backer/29/avatar.svg"></a>
-
-
-## Sponsors
-
-Become a sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://opencollective.com/modular-admin#sponsor)]
-
-<a href="https://opencollective.com/modular-admin/sponsor/0/website" target="_blank"><img src="https://opencollective.com/modular-admin/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/sponsor/1/website" target="_blank"><img src="https://opencollective.com/modular-admin/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/sponsor/2/website" target="_blank"><img src="https://opencollective.com/modular-admin/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/sponsor/3/website" target="_blank"><img src="https://opencollective.com/modular-admin/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/sponsor/4/website" target="_blank"><img src="https://opencollective.com/modular-admin/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/sponsor/5/website" target="_blank"><img src="https://opencollective.com/modular-admin/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/sponsor/6/website" target="_blank"><img src="https://opencollective.com/modular-admin/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/sponsor/7/website" target="_blank"><img src="https://opencollective.com/modular-admin/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/sponsor/8/website" target="_blank"><img src="https://opencollective.com/modular-admin/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/modular-admin/sponsor/9/website" target="_blank"><img src="https://opencollective.com/modular-admin/sponsor/9/avatar.svg"></a>
-
-### Credits
-
-* Gevorg Harutyunyan | [LinkedIn](https://www.linkedin.com/profile/view?id=AAMAAA7ne4gBF-IVNsoiBaeOeDTd5YGSTVN2eBs) |  [Facebook](https://www.facebook.com/madextreme) | [Twitter](https://twitter.com/mad4extreme) | gevharut[at]gmail.com
-* Aram Manukyan | [LinkedIn](https://www.linkedin.com/profile/view?id=AAkAABCehqwBm7aTR7IohpOidW1sVIHMo33U46o)
-* David Tigranyan | [LinkedIn](https://www.linkedin.com/profile/view?id=AAkAAAk1QJIB86I-V65l3qtgpTvfrMozBNc4p_8)
