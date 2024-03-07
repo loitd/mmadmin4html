@@ -1,17 +1,17 @@
 {
-  "name": "modular-admin-html",
-  "version": "1.4.0",
-  "description": "ModularAdmin: Free Dashboard Theme; html version",
+  "name": "mmadmin4html",
+  "version": "1.1.0",
+  "description": "MMAdmin4Html: Free Dashboard Theme; html version",
   "repository": {
     "type": "git",
-    "url": "https://github.com/modularcode/modular-admin-html.git"
+    "url": "https://github.com/loitd/mmadmin4html.git"
   },
   "author": "ModularCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/modularcode/modular-admin-html/issues"
+    "url": "https://github.com/loitd/mmadmin4html.git/issues"
   },
-  "homepage": "https://github.com/modularcode/modular-admin-html",
+  "homepage": "https://github.com/loitd/mmadmin4html",
   "dependencies": {
     "animate.css": "^3.5.2",
     "bootstrap": "^4.3.1",
@@ -37,7 +37,8 @@
     "sortablejs": "^1.7.0",
     "tether": "^1.4.3",
     "tinycolor2": "^1.4.1",
-    "lutilsjs": "^1.1.1"
+    "lutilsjs": "^1.1.1",
+    "vue-quick-template": "^1.0.8"
   },
   "devDependencies": {
     "cross-env": "^5.1.3",
@@ -68,13 +69,13 @@
   "scripts": {
     "start": "npm run gulp",
     "build": "npm run gulp build",
-    "deploy": "cross-env BASE_URL=\"/modular-admin-html/\" npm run build && gh-pages -d dist",
+    "deploy": "cross-env BASE_URL=\"/mmadmin4html/\" npm run build && gh-pages -d dist",
     "gulp": "gulp --gulpfile build/gulpfile.js",
     "postinstall": "opencollective postinstall"
   },
   "collective": {
     "type": "opencollective",
-    "url": "https://opencollective.com/modular-admin",
+    "url": "https://opencollective.com/mmadmin4html",
     "logo": "https://opencollective.com/opencollective/logo.txt"
   }
 }
